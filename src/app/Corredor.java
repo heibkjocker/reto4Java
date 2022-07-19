@@ -1,7 +1,7 @@
 package app;
 
 public class Corredor{
-    
+
     //DECLARE LOS ATRIBUTOS DE LA CLASE
     //Corredor SEGÚN LAS ESPECIFICACIONES
     //EN EL ENUNCIADO
@@ -9,8 +9,8 @@ public class Corredor{
     String numeroIdentificador;
     double estatura;
     int edad;
-    double tiempoMeta; 
-    
+    double tiempoMeta;
+
     //A CONTINUACIÓN ADJUNTE TODOS LOS
     //MÉTODOS DE LA CLASE, ES DECIR, EL
     //MÉTODO CONSTRUCTOR, LOS GETTERS Y
@@ -64,5 +64,5 @@ public class Corredor{
         this.tiempoMeta = tiempoMeta;
     }
 
-    
+
 }
